@@ -1,8 +1,11 @@
 ## 👋 Olá, eu sou o João Vitor Leite Novoletti
 
 🎓 Biólogo e estudante de **Engenharia de Computação** no IFSP e apaixonado por unir **biologia** e **computação**.
+
 💻 Tenho experiência em **Python**, **SQL** e desenvolvimento **web** com **Django** e **Flask**.
+
 🔬 Atuei em projetos de **bioinformática**, desenvolvendo plataformas para busca e disponibilização de dados biológicos.
+
 📊 Interesse especial em **automação de processos**, **análise de dados** e **modelagem computacional em biologia**.
 
 ---
